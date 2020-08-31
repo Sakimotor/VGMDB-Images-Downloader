@@ -1,5 +1,5 @@
 # VGMDB Images Downloader
-A python script made to download all the Front Covers belonging to a game
+A bash script made to download all the Front Covers belonging to a game
 
 
 ## Requirements
