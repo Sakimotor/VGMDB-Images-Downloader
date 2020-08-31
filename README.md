@@ -10,7 +10,7 @@ Any OS that supports bash.
 
 ## How to use
 
-* Input your game's name (example : vagrant story )
+Input your game's name (example : vagrant story )
 
 
 ```bash
